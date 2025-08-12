@@ -7,7 +7,7 @@
  
 - 🖥️ FullStack Web developer .NET
 - 📚 Systems student
-- 📩 tom_tain@hotmail.com
+- 📩 thomasmontana1@gmail.com
 - 💼 linkedin: Thomas Montaña
 <br>
 
