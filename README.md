@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋🏻, i'm Thomas </h1>
 </div>
-<img src="baner.png">
+<img src="baner2025.png">
 
 ## About Me
  
